@@ -51,9 +51,9 @@ This website provides historical on-time performance information of domestic fli
 
 Step 01. Create a GCP project and open Cloud Shell 
 
-Step 02. Clone this gitlab repository: 
+Step 02. Clone this github repository: 
 
-           https://gitlab.com/gtm-rti-demo/realtime-intelligence.git
+           git clone https://github.com/seidou-1/GoogleCloud
 
 Step 03. Change Directory to realtime-intelligence
 
