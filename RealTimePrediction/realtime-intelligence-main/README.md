@@ -53,7 +53,7 @@ Step 01. Create a GCP project and open Cloud Shell
 
 Step 02. Clone this github repository: 
 
-           https://github.com/seidou-1/GoogleCloud.git
+           git clone https://github.com/seidou-1/GoogleCloud
 
 Step 03. Change Directory to realtime-intelligence
 
